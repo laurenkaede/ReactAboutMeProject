@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/ReactAboutMe/static/css/main.89a40a4e.chunk.css",
+    "main.js": "/ReactAboutMe/static/js/main.4fbab18b.chunk.js",
+    "main.js.map": "/ReactAboutMe/static/js/main.4fbab18b.chunk.js.map",
+    "runtime-main.js": "/ReactAboutMe/static/js/runtime-main.44a66a5d.js",
+    "runtime-main.js.map": "/ReactAboutMe/static/js/runtime-main.44a66a5d.js.map",
+    "static/js/2.d19dca30.chunk.js": "/ReactAboutMe/static/js/2.d19dca30.chunk.js",
+    "static/js/2.d19dca30.chunk.js.map": "/ReactAboutMe/static/js/2.d19dca30.chunk.js.map",
+    "index.html": "/ReactAboutMe/index.html",
+    "precache-manifest.410a09e0f9728b1c8dad25c9bd411b6f.js": "/ReactAboutMe/precache-manifest.410a09e0f9728b1c8dad25c9bd411b6f.js",
+    "service-worker.js": "/ReactAboutMe/service-worker.js",
+    "static/css/main.89a40a4e.chunk.css.map": "/ReactAboutMe/static/css/main.89a40a4e.chunk.css.map",
+    "static/js/2.d19dca30.chunk.js.LICENSE.txt": "/ReactAboutMe/static/js/2.d19dca30.chunk.js.LICENSE.txt",
+    "static/media/bella.jpg": "/ReactAboutMe/static/media/bella.91f0324e.jpg",
+    "static/media/daisy.jpg": "/ReactAboutMe/static/media/daisy.741b723a.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.44a66a5d.js",
+    "static/js/2.d19dca30.chunk.js",
+    "static/css/main.89a40a4e.chunk.css",
+    "static/js/main.4fbab18b.chunk.js"
+  ]
+}
